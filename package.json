@@ -4,11 +4,11 @@
   "description": "Quick and dirty Tailwind setup for very simple static web pages",
   "devDependencies": {
     "@baleada/prepare": "^0.2.11",
-    "@baleada/tailwind-theme": "^0.1.9",
+    "@baleada/tailwind-theme": "^0.2.0",
     "postcss": "^8.1.4",
     "postcss-import": "^13.0.0",
     "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^2.0.0-alpha.6"
+    "tailwindcss": "^2.0.0-alpha.7"
   },
   "style": "src/entry.css",
   "scripts": {
@@ -23,5 +23,6 @@
     "email": "hello@alexvipond.dev",
     "url": "https://alexvipond.dev"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
